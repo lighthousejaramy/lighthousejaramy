@@ -2,9 +2,7 @@
 [![Header](https://i.ibb.co/ynZXGqnb/descarga-1.jpg)](https://github.com/lighthousejaramy)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lighthousejaramy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=lighthousejaramy&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
-
 </div>
 
 # 💫 About Me:
