@@ -34,6 +34,29 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
+### 🎧 Vinyl Gallery
+
+<p align="center">
+  <img src="https://e.snmc.io/i/600/w/fd22b461e32eff22218d007c7b3a4a94/8166959/%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D1%82-%D0%B4%D0%BE%D0%BC%D0%B0-molchat-doma-%D1%8D%D1%82%D0%B0%D0%B6%D0%B8-etazhi-cover-art.jpg" width="150" title="Молчат Дома - Судно (Борис Рыжий)">
+  <img src="https://e.snmc.io/i/600/w/514676636d470efb2ad00c3e9c2c9d08/10761426/thuglack-mafia-and-love-2-cover-art.jpg" width="150" title="Thuglack - MAFIA AND LOVE 2">
+  <img src="https://e.snmc.io/i/600/w/f932cb996d980ed9c119549c91f884bf/10761354/mnzr-purple-dream-cover-art.jpg" width="150" title="MNZR - Purple Dream">
+  <img src="https://cdn-images.dzcdn.net/images/cover/74a8d9375e355b7b02e017b09de167b2/0x1900-000000-80-0-0.jpg" width="150" title="Lui5 - La Extinción">
+  <img src="https://e.snmc.io/i/600/w/3f4dc78bb4ad8892f0012afce9535796/8426219/yung-beef-grandes-clasicos-Cover-Art.jpg" width="150" title="Yung Beef - Grandes clásicos">
+  <img src="https://e.snmc.io/i/600/w/e944d5e450a6fa33f95c6bc9871b066b/11217987/lil-peep-hellboy-cover-art.jpg" width="150" title="Lil Peep - Hellboy">
+  <img src="https://e.snmc.io/i/600/w/b23245108f36cea497b91980bbfc58fd/6571325/rels-b-boys-dont-cry-Cover-Art.jpg" width="150" title="Rels B - Boys Dont Cry">
+  <img src="https://e.snmc.io/i/600/w/b4490d830054f44bfaa28dc90db04e79/10865497/abrildefresa-beranito-diaz-cover-art.jpg" width="150" title="Abrildefresa - Beranito Diaz">
+  <img src="https://e.snmc.io/i/600/w/69c5941a1ad0a74c560632672d5c6cae/2743612/bullet-for-my-valentine-the-poison-cover-art.jpg" width="150" title="Bullet for My Valentine - The Poison">
+  <img src="https://e.snmc.io/i/600/w/ea48169ecb3db5c1a5857f975c348d32/5998897/slipknot-iowa-Cover-Art.jpg" width="150" title="Slipknot - Iowa">
+  <img src="https://e.snmc.io/i/600/w/9850bf48164946f7014374187c9ed190/8684640/pierce-the-veil-selfish-machines-Cover-Art.jpg" width="150" title="Pierce the Veil - Selfish Machines">
+  <img src="https://e.snmc.io/i/600/w/f4e78b6dc8b245940869c3a296793716/10230526/decalius-isolated-from-life-Cover-Art.jpg" width="150" title="Decalius - Isolated From Life">
+  <img src="https://e.snmc.io/i/600/w/753afdcc9409ffd4257584358fc782d5/8377479/gulu-gulu-%E3%81%90%E3%82%8B%E3%81%90%E3%82%8B%E6%B5%81%E5%87%BA%E9%9F%B3%E6%BA%90%E9%9B%86-%E3%83%AA%E3%83%93%E3%83%B3%E3%82%B0%E3%83%87%E3%83%83%E3%83%89%E7%9B%A4-gulu-gulu-ryuushutsu-ongenshuu-living-dead-edition-cover-art.jpg" width="150" title="gulu gulu - ぐるぐる流出音源集 リビングデッド盤">
+  <img src="https://e.snmc.io/i/600/w/e936b564650c47fdab9eb983c99620a0/10115527/tyler-the-creator-wolf-cover-art.jpg" width="150" title="Tyler, The Creator - Wolf">
+  <img src="https://e.snmc.io/i/600/w/0bf7befff914f00cbfb4b383b6b91da0/9097543/tyler-the-creator-call-me-if-you-get-lost-Cover-Art.jpg" width="150" title="Tyler, The Creator - Call Me If You Get Lost">
+  <img src="https://e.snmc.io/i/600/w/abf434e8c19c236b5ca1ebfd5cd6d83b/10674468/_uicideboy-gray-grey-Cover-Art.jpg" width="150" title="$uicideboy$ - Gray / Grey">
+  <img src="https://e.snmc.io/i/600/w/3dfd42af5d81d62324f17225201e5c17/6244119/_uicideboy-eternal-grey-Cover-Art.jpg" width="150" title="$uicideboy$ - Eternal Grey">
+  <img src="https://e.snmc.io/i/600/w/1e729bb626431f76a1a955245ae8c429/10967674/rojuu-salsa-valentina-Cover-Art.jpg" width="150" title="Rojuu - Salsa Valentina">
+</p>
+
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
