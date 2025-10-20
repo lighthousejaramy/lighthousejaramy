@@ -1,11 +1,6 @@
 
 [![Header](https://i.ibb.co/ynZXGqnb/descarga-1.jpg)](https://github.com/lighthousejaramy)
 
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/lighthousejaramy/count.svg"/>
-  <br/>
-</div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=lighthousejaramy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lighthousejaramy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
