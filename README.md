@@ -5,7 +5,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=lighthousejaramy&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
 </div>
 
-# 💫 About Me:
+# 💫 About Me:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 🎓 Estudiante de Ingeniería de Software con Inteligencia Artificial.<br>💻 Un aficionado por el desarrollo web, el aprendizaje automático y la integración de soluciones inteligentes en proyectos reales.<br>🚀 Enfocado en crear software innovador que combine tecnología, diseño y eficiencia.<br>🌱 Siempre aprendiendo y mejorando mis habilidades en React, TypeScript y modelos de IA.
 
 
