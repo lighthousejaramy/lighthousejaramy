@@ -4,6 +4,8 @@
 
 [![Header](https://i.ibb.co/ynZXGqnb/descarga-1.jpg)](https://github.com/lighthousejaramy)
 
+ <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="50">
+
 <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=lighthousejaramy&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
 </div>
