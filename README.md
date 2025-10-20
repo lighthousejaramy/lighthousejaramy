@@ -10,7 +10,7 @@
 </div>
 
 # 💫 About Me:
-🎓 Estudiante de Ingeniería de Software con especialización en Inteligencia Artificial.<br>💻 Apasionado por el desarrollo web, el aprendizaje automático y la integración de soluciones inteligentes en proyectos reales.<br>🚀 Enfocado en crear software innovador que combine tecnología, diseño y eficiencia.<br>🌱 Siempre aprendiendo y mejorando mis habilidades en React, TypeScript y modelos de IA.
+🎓 Estudiante de Ingeniería de Software con Inteligencia Artificial.<br>💻 Un aficionado por el desarrollo web, el aprendizaje automático y la integración de soluciones inteligentes en proyectos reales.<br>🚀 Enfocado en crear software innovador que combine tecnología, diseño y eficiencia.<br>🌱 Siempre aprendiendo y mejorando mis habilidades en React, TypeScript y modelos de IA.
 
 
 ## 🌐 Socials:
