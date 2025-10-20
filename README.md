@@ -11,10 +11,11 @@
 </div>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me:
-🎓 Estudiante de Ingeniería de Software con Inteligencia Artificial.<img src="https://i.ibb.co/xSyPLDR8/image.jpg" width="250" align="right"/><br>
+🎓 Estudiante de Ingeniería de Software con Inteligencia Artificial.<br>
 💻 Un aficionado por el desarrollo web, el aprendizaje automático y la integración de soluciones inteligentes en proyectos reales.<br>🚀 Enfocado en crear software innovador que combine tecnología, diseño y eficiencia.<br>🌱 Siempre aprendiendo y mejorando mis habilidades en React, TypeScript y modelos de IA.
 <br>
 <br>
+  <img src="https://i.ibb.co/BHFdBRXK/descarga-1.gif" width="250" alt="coding gif">
 <br>
 <br>
 ## 🌐 Socials:
