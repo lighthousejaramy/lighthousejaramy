@@ -11,13 +11,16 @@
 </div>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me:
+<span style="font-size:20px;">
 🎓 Estudiante de Ingeniería de Software con Inteligencia Artificial.<br>
-💻 Un aficionado por el desarrollo web, el aprendizaje automático y la integración de soluciones <br>inteligentes en proyectos reales.<br>🚀 Enfocado en crear software innovador que combine tecnología, diseño y eficiencia.<br>🌱 Siempre aprendiendo y mejorando mis habilidades en React, TypeScript y modelos de IA.
-<br>
-<br>
-  <img src="https://i.ibb.co/BHFdBRXK/descarga-1.gif" width="400" alt="coding gif">
-<br>
-<br>
+💻 Un aficionado por el desarrollo web, el aprendizaje automático y la integración de soluciones <br>inteligentes en proyectos reales.<br>
+🚀 Enfocado en crear software innovador que combine tecnología, diseño y eficiencia.<br>
+🌱 Siempre aprendiendo y mejorando mis habilidades en React, TypeScript y modelos de IA.
+</span>
+<br><br>
+<img src="https://i.ibb.co/BHFdBRXK/descarga-1.gif" width="400" alt="coding gif">
+<br><br>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaramy_18_ihate) 
 <br>
