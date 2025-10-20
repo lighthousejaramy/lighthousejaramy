@@ -1,5 +1,5 @@
 
-[![Header]([https://ibb.co/xSBDP6SR](https://i.ibb.co/ynZXGqnb/descarga-1.jpg) "Header")]
+[![Header](https://i.ibb.co/ynZXGqnb/descarga-1.jpg)](https://github.com/lighthousejaramy)
 
 <div align="center">
   <p>Visitor count</p>
