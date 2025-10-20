@@ -1,10 +1,10 @@
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Jaramy+lighthole;I'm+also+studying+software+Engineering" /></a>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="50">  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Jaramy+lighthole;I'm+also+studying+software+Engineering" /></a>
 </p>
 
 [![Header](https://i.ibb.co/ynZXGqnb/descarga-1.jpg)](https://github.com/lighthousejaramy)
 
- <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="50">
+ 
 
 <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=lighthousejaramy&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
